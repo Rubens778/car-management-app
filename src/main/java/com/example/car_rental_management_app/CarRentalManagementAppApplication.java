@@ -8,5 +8,6 @@ public class CarRentalManagementAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CarRentalManagementAppApplication.class, args);
+
 	}
 }
